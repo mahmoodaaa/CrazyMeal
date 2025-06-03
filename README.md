@@ -2,19 +2,17 @@
 
 CrazyMeal is a simple meal ordering web app where users can add custom meal orders, view them, and clear them. It stores data in localStorage and includes a styled interface.
 
-## Features
-- Add new meal orders with name, price, and image URL
-- View a list of current orders
-- Clear all orders
-- Persistent storage with localStorage
-- Responsive design using HTML, CSS, and JavaScript
+## 🌐 Live Demo
+👉 [Visit CrazyMeal on GitHub Pages](https://mahmoodaaa.github.io/CrazyMeal/)
 
-## How to Use
-1. Clone the repository
-2. Open  in a browser
-3. Add your meal details and submit
+## ✨ Features
+- Add new meal orders (name, price, image URL)
+- View all added orders
+- Delete all orders
+- Stores data using `localStorage`
+- Responsive UI with clean CSS styling
 
-## Developer
-Mahmood Aljdayeh
-
-
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahmoodaaa/CrazyMeal.git
